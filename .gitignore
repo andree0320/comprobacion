@@ -1,0 +1,14 @@
+*.exe
+*.o
+*.a
+
+/build/
+/bin/
+
+.vscode/
+
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
