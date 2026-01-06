@@ -22,10 +22,10 @@ int main()
     int m = 2, n = 2, k = 2;
     
     // Aplicaremos redimensionamiento para eliminar las 3ras filas y columnas y poder obtener A
-    double U[9] = {-0.79, -0.38,
+    double U[4] = {-0.79, -0.38,
                     0.0,  -0.78,};
 
-    double E[9] = {1.62, 0.0, 
+    double E[4] = {1.62, 0.0, 
                     0.0,  1.0};
 
     double VT[4] = {-0.78, -0.62,
